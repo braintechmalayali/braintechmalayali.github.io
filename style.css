@@ -8,6 +8,8 @@ body{
     background-image: url('images/b3.jpg');
     background-size: cover;
     background-attachment: fixed;
+    width: 100%;
+    height: auto;
 }
 .site-headers{
     width: 100%;
