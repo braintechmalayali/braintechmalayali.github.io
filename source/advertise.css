@@ -1,0 +1,48 @@
+
+
+.advertise{
+    width: 95%;
+    margin-left: 2.5%;
+    margin-top: 5vh;
+    height: 72vh;
+    color: white;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5));
+    border-radius: 10px;
+    align-items: center;
+}
+.advertise div h1{
+    text-align: center;
+    margin-top: 50%;
+}
+.advertise div{
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1200px) {
+.advertise{
+    width: 95%;
+    color: white;
+    margin-left: 2.5%;
+    height: 72vh;
+    margin-top: -65vh;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5));
+    border-radius: 10px;
+}
+.advertise h1{
+    width: 100%;
+    margin-top: 12%;
+}
+
+
+
+
+
+}
